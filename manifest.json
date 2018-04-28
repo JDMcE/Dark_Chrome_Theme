@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Custom Theme",
+  "name": "JDM Custom Theme",
+  "theme": {
+    "colors" : {
+      "frame": [0, 0, 0],
+      "frame_inactive": [0, 0, 0],
+      "toolbar": [70, 70, 70],
+      "tab_text": [255,255,255],
+      "tab_background_text": [180, 180, 180],
+      "bookmark_text": [180, 180, 180],
+      "ntp_background": [100, 100, 100],
+      "ntp_text": [180, 180, 180],
+      "ntp_link": [180, 180, 180],
+      "ntp_section": [100, 100, 100],
+      "button_background": [100, 100, 100]
+    },
+    "tints" : {
+      "buttons": [0.5, 0.5, 0.7],
+      "frame": [0.5, 0.5, 0.5],
+      "frame_inactive": [0.5, 0.5, 0.4],
+      "background_tab": [0.5, 0.5, 0.4]
+    }
+    // "properties" : {
+    //   "ntp_background_alignment" : "bottom"
+    // }
+  }
+}
